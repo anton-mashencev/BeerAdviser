@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
            stringBuilder.append(brand).append('\n');
         }
 
+//        sdasd
+
         brands.setText(stringBuilder);
 
     }
